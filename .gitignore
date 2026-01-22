@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+weather_dashboard.log
+
+# Generated files
+weather_display.png
+weather_rendered.html
+
+# Keep icons and screenshot
+!icons/*.png
+!screenshot.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
